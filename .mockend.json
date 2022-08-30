@@ -1,5 +1,4 @@
 {
-  "Categories": {
   "shop": {
     "id": "3",
     "categories": [
@@ -1373,5 +1372,4 @@
       }
     ]
   }
-}
 }
